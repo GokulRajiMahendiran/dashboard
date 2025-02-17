@@ -1,6 +1,5 @@
-yfinance
-pandas
 dash
+dash-table
+pandas
+yfinance
 plotly
-datetime
-os
